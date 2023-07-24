@@ -1,4 +1,5 @@
-### 👋🏽 Hey my name is Alex. I'm a beginner Mobile Developer📱 from Russia.
+### 👋🏽 Hey my name is Alex.
+I'm a beginner Mobile Developer📱 from Russia.
 
 
 
