@@ -1,4 +1,4 @@
-### I'm a beginner Mobile Developer 📱<img src="https://cdn-icons-png.flaticon.com/128/5969/5969010.png" alt="Sample Image" width="20" height="20">
+### I'm a beginner Mobile Developer 📱![android]("C:\Users\asus\Downloads\android.png")
 
 
 
