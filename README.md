@@ -1,8 +1,8 @@
 ### I'm a beginner Mobile Developer📱 from Russia
-
-
+###
+###
 ### About:
-
+###
 ### Tech:
 
 
