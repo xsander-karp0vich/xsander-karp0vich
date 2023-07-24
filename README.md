@@ -1,4 +1,10 @@
-### I'm a beginner Mobile Developer 📱
+### I'm a beginner Mobile Developer📱 from Russia
+
+
+### About:
+
+### Tech:
+
 
 
 
