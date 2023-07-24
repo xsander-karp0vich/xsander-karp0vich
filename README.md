@@ -1,4 +1,5 @@
-### I'm a beginner Mobile Developer 📱![Sample Image](https://cdn-icons-png.flaticon.com/128/5969/5969010.png)
+### I'm a beginner Mobile Developer 📱<img src="https://cdn-icons-png.flaticon.com/128/5969/5969010.png" alt="Sample Image" width="100" height="100">
+
 
 
 
