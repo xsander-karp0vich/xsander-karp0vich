@@ -1,4 +1,4 @@
-### I'm a beginner mobile developer 📱
+### I'm a beginner Mobile Developer 📱
 
 
 <!--
