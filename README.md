@@ -1,9 +1,5 @@
-### I'm a beginner Mobile Developer📱 from Russia
-###
-###
-### About:
-###
-### Tech:
+### 👋🏽 Hey my name is Alex. I'm a beginner Mobile Developer📱 from Russia.
+
 
 
 
