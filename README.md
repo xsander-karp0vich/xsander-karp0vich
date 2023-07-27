@@ -1,12 +1,11 @@
 # Hey! I'm Alex <img src="https://github.com/blackcater/blackcater/raw/main/images/Hi.gif" height="32"/></h1>
 
-
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?color=%2336BCF7&lines=Mobile+Developer)](https://git.io/typing-svg)
 
 
 _____________________________________________________________________________________________________________________________
 
-### 👨🏼‍💻About me:
+### 👨🏼‍💻 About me:
 I'm a beginner Mobile Developer📱, a bit of a designer and a high school student. I'm interested in mobile application development, and I've been learning different programming languages to build innovative and user-friendly apps. You can check out my projects in the repositories!
 
 ### 💻 Tech skills: 
@@ -15,12 +14,12 @@ I'm a beginner Mobile Developer📱, a bit of a designer and a high school stude
 ### 🛠 Tools:
 [![My Skills](https://skillicons.dev/icons?i=androidstudio,idea,figma)](https://skillicons.dev)
 
-### My social networks:
-...
-...
-...
+### 🤝 My social networks:
+
+
+
+  
 _____________________________________________________________________________________________________________________________
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=xsander-karp0vich)](https://github.com/anuraghazra/github-readme-stats)
 
 
 
