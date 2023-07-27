@@ -1,7 +1,7 @@
 # Hey, I'm Alex!
 _____________________________________________________________________________________________________________________________
 ### 👨🏼‍💻About me:
-I'm a beginner Mobile Developer📱, a bit of a designer and a high school student.
+I'm a beginner Mobile Developer📱, a bit of a designer and a high school student. I'm interested in mobile application development, and I've been learning different programming languages to build innovative and user-friendly apps. You can check out my projects in the repositories.
 
 ### 💻 Tech skills: 
 [![My Skills](https://skillicons.dev/icons?i=java,kotlin,sqlite,git)](https://skillicons.dev)
