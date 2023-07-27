@@ -20,6 +20,7 @@ I'm a beginner Mobile Developer📱, a bit of a designer and a high school stude
 
   
 _____________________________________________________________________________________________________________________________
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=xsander-karp0vich&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
 
 
