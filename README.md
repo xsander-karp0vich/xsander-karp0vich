@@ -1,4 +1,4 @@
-# Hey! I'm Alex! <img src="https://github.com/blackcater/blackcater/raw/main/images/Hi.gif" height="32"/></h1>
+# Hey! I'm Alex <img src="https://github.com/blackcater/blackcater/raw/main/images/Hi.gif" height="32"/></h1>
 
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?color=%2336BCF7&lines=Mobile+Developer)](https://git.io/typing-svg)
@@ -16,9 +16,11 @@ I'm a beginner Mobile Developer📱, a bit of a designer and a high school stude
 [![My Skills](https://skillicons.dev/icons?i=androidstudio,idea,figma)](https://skillicons.dev)
 
 ### My social networks:
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
-
-
+...
+...
+...
+_____________________________________________________________________________________________________________________________
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=xsander-karp0vich)](https://github.com/anuraghazra/github-readme-stats)
 
 
 
