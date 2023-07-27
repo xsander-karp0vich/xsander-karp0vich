@@ -16,7 +16,7 @@ I'm a beginner Mobile Developer📱, a bit of a designer and a high school stude
 
 ### 🤝 My social networks:
 
-<a href="t.me/@alexkarpovich17"><img src="assets/icons8-telegram.svg" alt="Telegram" width="40" height="40"></a>
+<a href="https://t.me/alexkarpovich17"><img src="assets/icons8-telegram.svg" alt="Telegram" width="40" height="40"></a>
 
   
 _____________________________________________________________________________________________________________________________
