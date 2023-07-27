@@ -1,23 +1,16 @@
-### Hey, I'm Alex!
-### I'm a beginner Mobile Developer📱
+# Hey, I'm Alex!
 _____________________________________________________________________________________________________________________________
-### 💻 Tech skills: 
-<a href="https://www.oracle.com/java/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/java-colored.svg" width="36" height="36" alt="Java" /></a>
-<a href="https://kotlinlang.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/kotlin-colored.svg" width="36" height="36" alt="Kotlin" /></a>
-<a href="https://git-scm.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/git-colored.svg" width="36" height="36" alt="Git" /></a>
-</p>
-
-![ANDROID](https://img.shields.io/badge/android-%2320232a.svg?style=for-the-badge&logo=android&logoColor=%a4c639) ![SQLite](https://img.shields.io/badge/sqlite-%2307405e.svg?style=for-the-badge&logo=sqlite&logoColor=white) 	![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white) 
-### 🛠 Tools:
-<p align="left">
-<a href="https://www.figma.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/figma-colored.svg" width="36" height="36" alt="Figma" /></a>
-</p>
-
 ### 👨🏼‍💻About me:
-...
+I'm a beginner Mobile Developer📱, a bit of a designer and a high school student.
+
+### 💻 Tech skills: 
+[![My Skills](https://skillicons.dev/icons?i=java,kotlin,sqlite,git)](https://skillicons.dev)
+
+### 🛠 Tools:
+[![My Skills](https://skillicons.dev/icons?i=androidstudio,idea,figma)](https://skillicons.dev)
+
 ###
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
-
 
 
 
