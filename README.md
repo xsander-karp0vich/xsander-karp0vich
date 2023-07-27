@@ -16,7 +16,7 @@ I'm a beginner Mobile Developer📱, a bit of a designer and a high school stude
 
 ### 🤝 My social networks:
 
-<a href="https://webref.ru"><img src="assets/androidstudio.svg" alt="Telegram" width="36" height="36"></a>
+<a href="https://www.youtube.com/"><img src="assets/telegram.png" alt="Telegram" width="36" height="36"></a>
 
   
 _____________________________________________________________________________________________________________________________
