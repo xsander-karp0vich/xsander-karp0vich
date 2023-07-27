@@ -1,6 +1,8 @@
 <h1 align="center">Hi there, I'm <a href="https://daniilshat.ru/" target="_blank">Alex</a> 
 <img src="https://github.com/blackcater/blackcater/raw/main/images/Hi.gif" height="32"/></h1>
+
 _____________________________________________________________________________________________________________________________
+
 ### 👨🏼‍💻About me:
 I'm a beginner Mobile Developer📱, a bit of a designer and a high school student. I'm interested in mobile application development, and I've been learning different programming languages to build innovative and user-friendly apps. You can check out my projects in the repositories!
 
