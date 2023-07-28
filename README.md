@@ -17,7 +17,7 @@ I'm a beginner Mobile Developer📱, a bit of a designer and a high school stude
 ### 🤝 My social networks:
 
 <a href="https://t.me/"><img src="assets/telegram-svgrepo-com.svg" alt="Telegram" width="40" height="40"></a>
-<a href="https://www.linkedin.com/in/alexsandar-karpovich-763768245/"><img src="assets/linkedin-icon-svgrepo-com.svg" alt="Linkedin" width="40" height="40"></a>
+<a href="https://www.linkedin.com/in/alexsandar-karpovich-763768245/"><img src="assets/linkedin-svgrepo-com.svg" alt="Linkedin" width="40" height="40"></a>
 
 
   
