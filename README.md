@@ -1,41 +1,17 @@
-# Hey! I'm Alex <img src="https://github.com/blackcater/blackcater/raw/main/images/Hi.gif" height="32"/></h1>
+<h3 align="center">Alexsander Karpovich</h3>
+<h1 align="center">Android Developer</h1>
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?color=%2336BCF7&lines=Mobile+Developer)](https://git.io/typing-svg)
-_____________________________________________________________________________________________________________________________
+<p align="center"><img src="https://source.android.com/static/docs/setup/images/Android_symbol_green_RGB.png" width="100px"></p>
 
-### 👨🏼‍💻 About me:
-I'm a beginner Mobile Developer📱, a bit of a designer and a high school student. I'm interested in mobile application development, and I've been learning different programming languages to build innovative and user-friendly apps. You can check out my projects in the repositories!
+<br>
 
-### 💻 Tech skills: 
-[![My Skills](https://skillicons.dev/icons?i=java,kotlin,sqlite,git)](https://skillicons.dev)
+<p>
 
-### 🛠 Tools:
-[![My Skills](https://skillicons.dev/icons?i=androidstudio,idea,figma)](https://skillicons.dev)
+👋 Hi there! I'm an Android Developer📱, a bit of a designer and a high school student. I'm interested in mobile application development, and I've been learning different programming languages to build innovative and user-friendly apps. You can check out my projects in the repositories!
+### 🔗 Connect with me:
+[<img align="left" alt="Alexsander Karpovich | LinkedIn" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />][linkedin]
 
-### 🤝 My social networks:
-
-<a href="https://t.me/"><img src="assets/telegram-svgrepo-com.svg" alt="Telegram" width="40" height="40"></a>
-<a href="https://www.linkedin.com/in/alexsandar-karpovich-763768245/"><img src="assets/linkedin-svgrepo-com.svg" alt="Linkedin" width="40" height="40"></a>
+<br>
 
 
-  
-_____________________________________________________________________________________________________________________________
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=xsander-karp0vich&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
-
-
-
-
-<!--
-**xsander-karp0vich/xsander-karp0vich** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+[linkedin]:https://www.linkedin.com/in/alexsandar-karpovich-763768245/
