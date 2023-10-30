@@ -14,4 +14,4 @@
 <br>
 
 
-[linkedin]:https://www.linkedin.com/in/alexsandar-karpovich-763768245/
+[linkedin]:https://www.linkedin.com/in/alexsander-karpovich-763768245/
