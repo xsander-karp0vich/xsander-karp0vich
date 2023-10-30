@@ -1,5 +1,5 @@
 <h3 align="center">Alexsander Karpovich</h3>
-<h1 align="center">Android Developer</h1>
+<h2 align="center">Android Developer</h2>
 
 <p align="center"><img src="https://source.android.com/static/docs/setup/images/Android_symbol_green_RGB.png" width="100px"></p>
 
