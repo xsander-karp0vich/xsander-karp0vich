@@ -6,7 +6,7 @@
 <br>
 
 <p>
-  <h3 align="center">About</h3>
+
 👋 Hi there! I'm an Android Developer📱, a bit of a designer and a student. I'm interested in mobile application development, and I've been learning different programming languages to build innovative and user-friendly apps. You can check out my projects in the repositories!
 
   ### 🔗 Connect with me:
