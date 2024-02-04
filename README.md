@@ -1,7 +1,7 @@
 # Hi there! 👋 I am Alex.
 <p align="center"><img src="https://imgbly.com/ib/dEWKrHoXOE.png" width="100px"></p>
 
-I'm an Android developer...
+I'm passionate Android developer, I enjoy studying human and programming languages, love solving problems and effectively communicate with both - people and computers. I'm a lifelong learner and an inquisitive programmer!
 
 - 🌱  I’m currently learning Jetpack Compose.
 - 💬  Ask me anything about android development.
