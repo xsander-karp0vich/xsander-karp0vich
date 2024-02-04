@@ -1,15 +1,20 @@
-<h3 align="center">Alexsander Karpovich</h3>
-<h2 align="center">Android Developer</h2>
+# Hi there! 👋 I am Alex.
+<p align="center"><img src="https://imgbly.com/ib/dEWKrHoXOE.png" width="100px"></p>
 
-<p align="center"><img src="https://source.android.com/static/docs/setup/images/Android_symbol_green_RGB.png" width="100px"></p>
+I'm an Android Developer📱, a bit of a designer and a student. I'm interested in mobile application development, and I've been learning different programming languages to build innovative and user-friendly apps. You can check out my projects in the repositories!
 
-<br>
+## Skills and Technologies:
+![Android](https://img.shields.io/badge/Android-3DDC84?style=for-the-badge&logo=android&logoColor=white) 
+![Kotlin](https://img.shields.io/badge/kotlin-%237F52FF.svg?style=for-the-badge&logo=kotlin&logoColor=white) 
+![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white) 
+![Room](https://img.shields.io/badge/SQLite-07405E?style=for-the-badge&logo=sqlite&logoColor=white)
+![Realm](https://img.shields.io/badge/Realm-39477F?style=for-the-badge&logo=realm&logoColor=white)
+![Git](https://img.shields.io/badge/GIT-E44C30?style=for-the-badge&logo=git&logoColor=white)
 
-<p>
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=xsander-karp0vich&layout=compact&langs_count=10&theme=tokyonight&count_private=true&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)
 
-👋 Hi there! I'm an Android Developer📱, a bit of a designer and a student. I'm interested in mobile application development, and I've been learning different programming languages to build innovative and user-friendly apps. You can check out my projects in the repositories!
-
-  ### 🔗 Connect with me:
+### Contact me:
 [![Telegram](https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/aKarp0vich)
 [![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/alexsander-karpovich-763768245/)
+[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](alexsandar.carpovich@gmail.com)
 <br>
