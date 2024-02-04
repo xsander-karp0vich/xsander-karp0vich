@@ -1,6 +1,6 @@
 # Hi there! 👋 I am Alex.
 <p align="center"><img src="https://imgbly.com/ib/dEWKrHoXOE.png" width="100px"></p>
-I'm an Android Developer, a bit of a designer and a student. I'm interested in mobile application development, and I've been learning different programming languages to build innovative and user-friendly apps. You can check out my projects in the repositories!
+I'm an Android developer, a bit of a designer and a student. I'm interested in mobile application development, and I've been learning different programming languages to build innovative and user-friendly apps. You can check out my projects in the repositories!
 
 ## Skills and Technologies:
 ![Android](https://img.shields.io/badge/Android%20SDK-50AE55?style=for-the-badge&logo=android&logoColor=F6F6F6)
