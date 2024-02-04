@@ -24,6 +24,13 @@ I'm passionate Android developer, I enjoy studying human and programming languag
 ![Git](https://img.shields.io/badge/GIT-E44C30?style=for-the-badge&logo=git&logoColor=white)
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=xsander-karp0vich&layout=compact&langs_count=10&theme=tokyonight&count_private=true&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)
+## My Pet Projects’ Demo Videos:
+<a href="http://www.youtube.com/watch?feature=player_embedded&v=PLRHLWeGvx8
+" target="_blank"><img src="http://img.youtube.com/vi/PLRHLWeGvx8/0.jpg" 
+alt="DreamCatcher" width="150" height="100" border="10" /></a> +
+<a href="http://www.youtube.com/watch?feature=player_embedded&v=JEzoBR8u2sc
+" target="_blank"><img src="http://img.youtube.com/vi/JEzoBR8u2sc/0.jpg" 
+alt="DreamCatcher" width="150" height="100" border="10" /></a> +
 
 ### Contact me:
 [![Telegram](https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/aKarp0vich)
