@@ -1,4 +1,4 @@
-# Hi there! 👋 I am Alex.
+# Hi there! 👋 I am Alex. 
 <p align="center"><img src="https://imgbly.com/ib/dEWKrHoXOE.png" width="100px"></p>
 
 I'm passionate Android developer, I enjoy studying human and programming languages, love solving problems and effectively communicate with both - people and computers. I'm a lifelong learner and an inquisitive programmer!
