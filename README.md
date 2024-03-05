@@ -10,7 +10,7 @@ I'm passionate Android developer, I enjoy studying human and programming languag
 ## Skills and Technologies:
 ![Android](https://img.shields.io/badge/Android%20SDK-50AE55?style=for-the-badge&logo=android&logoColor=F6F6F6)
 ![Kotlin](https://img.shields.io/badge/kotlin-%237F52FF.svg?style=for-the-badge&logo=kotlin&logoColor=white) 
-![Java](https://img.shields.io/badge/Java-3a75b0?style=for-the-badge&logo=openjdk&logoColor=white)
+![Java](https://img.shields.io/badge/Java-DB380E?style=for-the-badge&logo=openjdk&logoColor=white)
 ![Gradle](https://img.shields.io/badge/Gradle-02303A.svg?style=for-the-badge&logo=Gradle&logoColor=white)
 ![Clean](https://img.shields.io/badge/Clean%20Architecture-4169E1.svg?style=for-the-badge&logo=ccleaner&logoColor=white)
 ![RxJava](https://img.shields.io/badge/RxJava-FFE793.svg?style=for-the-badge&logo=ccleanerr&logoColor=white)
@@ -18,9 +18,9 @@ I'm passionate Android developer, I enjoy studying human and programming languag
 ![Room](https://img.shields.io/badge/Room-39477F?&style=for-the-badge&logo=adminer&logoColor=white)
 ![SqLite](https://img.shields.io/badge/SQLite-1572B6?style=for-the-badge&logo=sqlite&logoColor=white)
 ![Realm](https://img.shields.io/badge/Realm-39477F?style=for-the-badge&logo=realm&logoColor=white)
-![Firebase](https://img.shields.io/badge/Firebase-039BE5?style=for-the-badge&logo=Firebase&logoColor=white)
+![Firebase](https://img.shields.io/badge/Firebase-E5B82C?style=for-the-badge&logo=Firebase&logoColor=white)
 ![Hilt](https://img.shields.io/badge/Hilt-430098?style=for-the-badge&logo=hilt&logoColor=white)
-![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white) 
+![Figma](https://img.shields.io/badge/Figma-1E1E1E?style=for-the-badge&logo=figma&logoColor=white) 
 ![Git](https://img.shields.io/badge/GIT-E44C30?style=for-the-badge&logo=git&logoColor=white)
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=xsander-karp0vich&layout=compact&langs_count=10&theme=tokyonight&count_private=true&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)
