@@ -1,4 +1,4 @@
-# Hi there! 👋 I am Alex. 
+# Hi there! 👋 I am Alex.  
 <p align="center"><img src="https://imgbly.com/ib/dEWKrHoXOE.png" width="100px"></p>
 
 I'm passionate Android developer, I enjoy studying human and programming languages, love solving problems and effectively communicate with both - people and computers. I'm a lifelong learner and an inquisitive programmer!
@@ -7,7 +7,7 @@ I'm passionate Android developer, I enjoy studying human and programming languag
 - 💬  Ask me anything about android development.
 - ⚡  Fun fact: I have lived in 3 countries.
 
-## Skills and Technologies:
+## Skills and Technologies: 
 ![Android](https://img.shields.io/badge/Android%20SDK-50AE55?style=for-the-badge&logo=android&logoColor=F6F6F6)
 ![Kotlin](https://img.shields.io/badge/kotlin-%237F52FF.svg?style=for-the-badge&logo=kotlin&logoColor=white) 
 ![Java](https://img.shields.io/badge/Java-DB380E?style=for-the-badge&logo=openjdk&logoColor=white)
